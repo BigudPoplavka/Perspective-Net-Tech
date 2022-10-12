@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNT_Lab_1", "PNT_Lab_1.csproj", "{413CFD82-ACE9-4BC6-8759-5F0EF18B757C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "..\Service\Service.csproj", "{84C1CD50-5BA6-440D-AA48-99BBF82C5646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413CFD82-ACE9-4BC6-8759-5F0EF18B757C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413CFD82-ACE9-4BC6-8759-5F0EF18B757C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413CFD82-ACE9-4BC6-8759-5F0EF18B757C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413CFD82-ACE9-4BC6-8759-5F0EF18B757C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C1CD50-5BA6-440D-AA48-99BBF82C5646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C1CD50-5BA6-440D-AA48-99BBF82C5646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C1CD50-5BA6-440D-AA48-99BBF82C5646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C1CD50-5BA6-440D-AA48-99BBF82C5646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {035CC8A2-5B2B-41A6-8BA5-723DB4916B08}
+	EndGlobalSection
+EndGlobal
