@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option csharp_namespace = "PipeVolumeCalcService";
+
+package greet;
+
+service PipeVolumeCalculation {
+  rpc Calculate (CalcRequest) returns (Reply);
+  rpc AuthorizeWithSession(AuthRequest) returns (AuthReply);
+}
+
+message CalcRequest {
+  double S = 1;
+  double L = 2;
+}
+
+message Reply {
+  double V = 1;
+}
+
+message AuthRequest {
+	string login = 1;
+	string password = 2;
+}
+
+message AuthReply {
+	string session_token = 1;
+}
