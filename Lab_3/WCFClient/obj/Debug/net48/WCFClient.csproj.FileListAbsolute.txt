@@ -1,0 +1,16 @@
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.csprojAssemblyReference.cache
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.Form1.resources
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.csproj.GenerateResource.cache
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.AssemblyInfoInputs.cache
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.AssemblyInfo.cs
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.csproj.CoreCompileInputs.cache
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\WCFClient.exe.config
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\WCFClient.exe
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\WCFClient.pdb
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\System.ServiceModel.Duplex.dll
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\System.ServiceModel.Http.dll
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\System.ServiceModel.NetTcp.dll
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\bin\Debug\net48\System.ServiceModel.Primitives.dll
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.csproj.CopyComplete
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.exe
+D:\donnu\Маг 1 КУРС\Перспективные сетевые технологии\Lab_3_crsh\WCFClient\obj\Debug\net48\WCFClient.pdb

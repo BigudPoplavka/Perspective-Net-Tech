@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuacCL5MgIpbpTuG69LDrwNEX8nyrrxI3Y2ZqFhysveAcEKvR1KCsZA14n5RdkqENHI+0DvjDpZC0kfRGkLEdw==",
+  "success": true,
+  "projectFilePath": "D:\\donnu\\Маг 1 КУРС\\Перспективные сетевые технологии\\Lab_3_crsh\\WCFClient\\WCFClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogda\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
+    "C:\\Users\\bogda\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
+    "C:\\Users\\bogda\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
+    "C:\\Users\\bogda\\.nuget\\packages\\system.servicemodel.primitives\\4.4.4\\system.servicemodel.primitives.4.4.4.nupkg.sha512",
+    "C:\\Users\\bogda\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
